@@ -1,0 +1,14 @@
+{
+  "name": "Jahonnamo",
+  "short_name": "Jahonnamo",
+  "description": "Dunyo zilzilalari, vulqon, yong'in va bo'ronlar kuzatuv platformasi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1623",
+  "theme_color": "#0f2236",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
